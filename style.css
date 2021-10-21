@@ -1,0 +1,25 @@
+head,
+body {
+  font-family: gotham rounded;
+}
+
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #e2edff;
+}
+
+#articles {
+  background-color: #e2edff;
+}
+
+section {
+  padding-top: 5rem;
+}
+
+#contact {
+  background-color: #e2edff;
+}
+
+myarticle {
+  height: 268px;
+}
