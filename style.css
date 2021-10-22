@@ -1,6 +1,5 @@
-head,
 body {
-  font-family: gotham rounded;
+  font-family: gotham rounded, sans-serif;
 }
 
 .jumbotron {
